@@ -26,7 +26,9 @@ Complex wallet setups and Web3 mechanisms often make it difficult for players to
 
 ## Introducing PSG1
 
-At Play Solana, we are building PSG1 - the first handheld gaming device built on top of Solana Blockchain.
+At Play Solana, we are building **PSG1** - the first handheld gaming device built on top of Solana Blockchain.
+
+![IntroducingPSG1](https://github.com/user-attachments/assets/37874e8a-237b-4577-9823-613671d5fcba)
 
 **Prime Gaming Experience**
 
