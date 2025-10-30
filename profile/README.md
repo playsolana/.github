@@ -114,6 +114,9 @@ The SuperHUB is **live**—validated by integrations, partners, and tangible use
 **Play\<Gate\> (On-Chain Console Publishing for PSG1 Games)**  
 Purpose-built for **PSG1 game** titles. Play\<Gate\> records **on-chain submission receipts** on Solana **for artifacts only**—APK/AAB builds and associated media assets—capturing submission hash, timestamp, and submitting organization for provenance. This provides a clean, auditable path from **submission** to **public release**.
 
+<img width="1000" height="615" alt="image" src="https://github.com/user-attachments/assets/7f536220-117c-41e8-b52e-8dc070367657" />
+
+
 - **Submission**  
   Upload signed APK/AAB; attach icons, hero/banner, copy, ratings, localization.  
   A submission receipt for builds/assets is written on-chain.
